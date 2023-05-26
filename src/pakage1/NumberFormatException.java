@@ -15,9 +15,5 @@ public class NumberFormatException {
 		int totalDeposit = num1 + num2 + num3;
 
 		System.out.println(totalDeposit);
-		
-		System.out.println("New line added");
-
 	}
-
 }
